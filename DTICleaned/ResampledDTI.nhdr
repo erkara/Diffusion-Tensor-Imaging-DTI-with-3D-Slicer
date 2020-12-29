@@ -1,0 +1,15 @@
+NRRD0005
+# Complete NRRD file format specification at:
+# http://teem.sourceforge.net/nrrd/format.html
+type: float
+dimension: 4
+space: right-anterior-superior
+sizes: 9 64 64 24
+space directions: none (1,0,0) (0,1,0) (0,0,2.6000000000000001)
+kinds: 3D-matrix domain domain domain
+endian: little
+encoding: gzip
+space origin: (-41.188098907470703,51.483100891113281,38.749599456787109)
+measurement frame: (1,0,0) (0,1,0) (0,0,1)
+data file: ResampledDTI.raw.gz
+ITK_InputFilterName:=NrrdImageIO
