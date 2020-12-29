@@ -1,5 +1,5 @@
 # Diffusion-Tensor-Imaging-DTI-with-3D-Slicer
-In this repo, you can find some of my works about diffusion tensor imaging. The data set can be found at
+In this repo, you can find some of my works about diffusion tensor imaging using 3D Slicer.  The data set can be found at
 
 https://spujol.github.io/NeurosurgicalPlanningTutorial/
 
@@ -7,7 +7,7 @@ This is the main ingredient of our paper about the efficacy and toxicity of drug
 tumors, which is to appear in in Pyhsical Review E. Access at 
 https://journals.aps.org/pre/accepted/3d072RdaA1f15b1bd78c6860715e4f0dd1104b4c5
 
-Summary of the folders in this repor is as follows;
+I am planning to provide a seperate file to describe how to process DTI data in the future. For now, summary of the folders in this repor is as follows;
 
 DTICleaned
 
