@@ -11,7 +11,7 @@ I am planning to provide a seperate file to describe how to process DTI data in 
 
 DTICleaned
 
-In theory, the diffusion tensor is symmetric and positive definite (SPD) but in practice the positive definiteness can be corrupted due to measurement noise. 
+In theory, diffusion tensors are symmetric and positive definite (SPD) but in practice the positive definiteness can be corrupted due to measurement noise. 
 Thus we first re-sample the DTI volume to correct the tensors that are not positive semi-definite. "ResampledDTI.nhdr" in this folder is the noise-free
 DTI volume on which we perform several post-processing operations. We can export several scalar measurements such as linear 
 isotropy, axial diffusivity, spherical isotropy using this volume. 
