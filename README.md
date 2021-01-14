@@ -4,8 +4,8 @@ In this repo, you can find some of my works about diffusion tensor imaging using
 https://spujol.github.io/NeurosurgicalPlanningTutorial/
 
 This is the main ingredient of our paper about the efficacy and toxicity of drug transport on solid
-tumors, which is to appear in in Pyhsical Review E. Access at 
-https://journals.aps.org/pre/accepted/3d072RdaA1f15b1bd78c6860715e4f0dd1104b4c5
+tumors, which appeared in in Pyhsical Review E. Access here: 
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.062425
 
 I am planning to provide a seperate file to describe how to process DTI data in the future. For now, summary of the folders in this repor is as follows;
 
